@@ -4,9 +4,7 @@ TFT
 
 ![giphy](https://user-images.githubusercontent.com/96345719/187073167-9b8c8fc0-4cc3-4f33-9460-3d8b0f28e7a4.gif)
 
-[<img align=center width=300 height=300 src=https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO/fullscreen alt="Internet Overdose" />]
 
-[<img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />](https://youtu.be/BnkhBwzBqlQ)
 
 ### Github Stats
 [![Saltyaom's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltyaom&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
