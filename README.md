@@ -2,9 +2,9 @@
 ## Hi, coco0x0a here.
 TFT
 
-<iframe src="https://giphy.com/embed/Diym3aZO1dHzO" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO">via GIPHY</a></p>
 
-[<img align=center width=300 height=300 src=https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO alt="Internet Overdose" />]
+[<img align=center width=300 height=300 src=https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO/fullscreen alt="Internet Overdose" />]
+
 [<img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />](https://youtu.be/BnkhBwzBqlQ)
 
 ### Github Stats
