@@ -2,7 +2,7 @@
 ## Hi, coco0x0a here.
 TFT
 
-<iframe src="https://giphy.com/embed/Diym3aZO1dHzO" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/Diym3aZO1dHzO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO">via GIPHY</a></p>
 
 [<img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />](https://youtu.be/BnkhBwzBqlQ)
 
