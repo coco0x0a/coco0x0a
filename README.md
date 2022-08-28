@@ -2,6 +2,7 @@
 ## Hi, coco0x0a here.
 TFT
 
+![giphy](https://user-images.githubusercontent.com/96345719/187073167-9b8c8fc0-4cc3-4f33-9460-3d8b0f28e7a4.gif)
 
 [<img align=center width=300 height=300 src=https://giphy.com/gifs/kawaii-clapping-Diym3aZO1dHzO/fullscreen alt="Internet Overdose" />]
 
